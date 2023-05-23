@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 public class Account {
-
 	/**
 	 * the name of the account 
 	 */
